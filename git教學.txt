@@ -6,3 +6,6 @@ git commit -m "文字"
 查看連接個兩個端 git remote -v
 查看目前的branch   git branch
 在主端那邊增加一條線(別用)  git push origin master
+本地+
+本地+
+本地+
