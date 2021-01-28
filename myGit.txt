@@ -9,3 +9,4 @@ git commit -m "文字"
 本地+
 本地+
 本地+
+server add 01
