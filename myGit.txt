@@ -10,3 +10,8 @@ git commit -m "文字"
 本地+
 本地+
 server add 01
+ser add 02 - 0916
+
+
+https://gitbook.tw/chapters/branch/fix-conflict.html
+https://www.git-tower.com/learn/git/faq/track-remote-upstream-branch/
