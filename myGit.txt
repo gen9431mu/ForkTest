@@ -10,3 +10,7 @@ git commit -m "文字"
 本地+
 本地+
 server add 01
+<<<<<<< HEAD
+=======
+ser add 02 - 0916
+>>>>>>> OldOther
